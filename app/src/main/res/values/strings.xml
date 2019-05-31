@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_peru">Lima is the capital of Peru.</string>
+    <string name="question_bolivia">Quito is the capital of Bolivia.</string>
+    <string name="question_ecuador">La Paz is the capital of Ecuador.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct2!</string>
+    <string name="incorrect_toast">Incorrect2!</string>
+</resources>
